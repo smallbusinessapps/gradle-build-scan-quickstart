@@ -4,7 +4,7 @@ plugins {
 }
 
 // comment the lines below to agree to the Terms of Service.
-//buildScan {
+//  gradlew build -Dscan {
 //    licenseAgreementUrl = 'https://gradle.com/terms-of-service'
 //    licenseAgree = 'yes'
 //}
