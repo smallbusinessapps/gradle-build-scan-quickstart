@@ -3,7 +3,7 @@ plugins {
     id 'java'
 }
 
-// Uncomment the lines below to agree to the Terms of Service.
+// comment the lines below to agree to the Terms of Service.
 //buildScan {
 //    licenseAgreementUrl = 'https://gradle.com/terms-of-service'
 //    licenseAgree = 'yes'
